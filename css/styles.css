@@ -1,0 +1,183 @@
+#title
+{
+background-color: #ff4c68;
+}
+.iphone
+{
+padding-left: 3em;
+width: 271px;
+transform:rotate(21deg);
+margin-bottom: 6%;
+left: 108px;
+}
+.container-fluid
+{
+padding: 3% 15%;
+height: 665%;
+}
+body
+{
+font-family: 'Montserrat', sans-serif;
+}
+h1
+{
+font-family: 'Montserrat-black', sans-serif;
+font-size: 3rem;
+line-height: 1.5;
+color: #f8e1f4;
+text-align: left;
+}
+h2
+{
+font-family: 'Montserrat-black', sans-serif;
+font-size: 2rem;
+}
+h3
+{
+font-family: 'Montserrat-black', sans-serif;
+text-align: center;
+}
+p
+{
+color: #8f8f8f;
+text-align: center;
+size: 0.5rem;
+}
+a
+{
+font-family: 'Ubuntu', sans-serif;
+margin:1%;
+}
+.title
+{
+padding-top: 2%;
+}
+.navbar-brand
+{
+font-family: 'Ubuntu', sans-serif;
+font-size: 400%;
+font-weight: bold;
+}
+.navbar-nav
+{
+font-size: 100%;
+}
+.navbar
+{
+padding-left: 0;
+}
+.btn
+{
+margin: 5% 2% 5% 0%;
+}
+#features
+{
+padding: 7% 10% 7% 10%;
+background-color: #fff;
+text-align: center;
+}
+.
+{
+size: 30%;
+}
+
+#ic
+{
+padding-bottom: 1em;
+color: #ef8172;
+}
+#ic:hover
+{
+color: #ff4c68;
+}
+#testimonials
+{
+background-color: #ef8172;
+text-align: center;
+font-family: 'Montserrat-black';
+font-size: 2rem;
+color: #fff;
+
+}
+.pebbles
+{
+font-size: 53%
+}
+.test-img
+{
+width: 10%;
+border-radius: 63%;
+padding-bottom: 3%;
+}
+#press
+{
+background-color: #ef8172;
+}
+.press-item
+{
+text-align: center;
+width: 10%;
+margin: 0% 7% 4%;
+}
+.carousel-item
+{
+padding: 7% 15% 7%;
+}
+.pricing-title
+{
+padding-left: 2rem;
+text-align: center;
+margin-bottom: 6%;
+}
+#pricing
+{
+padding: 5% 10% 5%;
+}
+@media (max-width: 1028px)
+{
+#title
+{
+
+}
+.iphone
+{
+transform: rotate(0);
+}
+h1
+{
+text-align: center;
+}
+}
+.final
+{
+	background-color: #ff4c68;
+	width: 100%
+}
+.boto
+{
+	text-align: center;
+}
+.final-head
+{
+ size: 2rem;
+ text-align: center;
+ padding-top: 10%;
+ color: #fff;
+ line-height: 1.5rem;
+}
+#footer
+{
+	text-align: center;
+}
+.fab
+{
+	size: 30%;
+}
+.foop
+{
+	size: 1rem;
+}
+#footer
+{
+	line-height: 3.5;
+}
